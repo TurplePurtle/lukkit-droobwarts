@@ -1,0 +1,5 @@
+broom-material: "BLAZE_ROD"
+broom-equip-message: "Yer a wizard, Harry!"
+broom-unequip-message: "You put away your trusty broom."
+no-flight-juice-message: "You've run out of flight juice!"
+flight-meters-per-bar: 100
